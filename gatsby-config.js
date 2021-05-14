@@ -118,5 +118,7 @@ module.exports = {
         lang: `pt-br`,
       },
     },
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-offline`,
   ],
 };
