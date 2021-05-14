@@ -9,7 +9,7 @@
     "build": "gatsby build"
   },
   "dependencies": {
-    "@teefe/gatsby-theme-luden": "1.1.71",
+    "@teefe/gatsby-theme-luden": "1.1.711",
     "gatsby": "^3.5.0",
     "gatsby-plugin-manifest": "^3.5.0",
     "gatsby-plugin-offline": "^4.5.0",

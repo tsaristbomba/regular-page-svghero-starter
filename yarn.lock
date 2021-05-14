@@ -1730,10 +1730,10 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@teefe/gatsby-theme-luden@1.1.7":
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/@teefe/gatsby-theme-luden/-/gatsby-theme-luden-1.1.7.tgz#93fae31c0820a1df3d8c5631a345ff11d7619a2b"
-  integrity sha512-cDSmaNf7bvM0N6bJgR+vCOmcfYI/LWe+XZZQxGBzh/LWMWQcXJRP6ZeBseBCCnLvaZP6eFO+mGtVgpAfDOzPlA==
+"@teefe/gatsby-theme-luden@1.1.711":
+  version "1.1.711"
+  resolved "https://registry.yarnpkg.com/@teefe/gatsby-theme-luden/-/gatsby-theme-luden-1.1.711.tgz#60f3fd664a0a141216622c19b5bf8b077c2efc44"
+  integrity sha512-SiDtUuW9EfmmFXsy76whwl+8qSsoHpKFyMJZXA8NmqS0zNfsmYE4cSExEM90gOPmLSaFhyCsrT5rpv4iHhv3sw==
   dependencies:
     "@react-icons/all-files" "^4.1.0"
     babel-plugin-styled-components "^1.12.0"
