@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "site",
+  "name": "regular-page-svghero-starter",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -9,7 +9,7 @@
     "build": "gatsby build"
   },
   "dependencies": {
-    "@teefe/gatsby-theme-luden": "1.1.7",
+    "@teefe/gatsby-theme-luden": "1.1.71",
     "gatsby": "^3.5.0",
     "gatsby-plugin-manifest": "^3.5.0",
     "gatsby-plugin-offline": "^4.5.0",
