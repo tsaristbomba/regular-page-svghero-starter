@@ -25,20 +25,28 @@ const AboutPage = () => {
   const curve = getMetadata().meta.siteMetadata.curve;
 
   return (
-    <Layout anchor={anchor} transparent light sticky rounded="true">
+    <Layout
+      anchor={anchor}
+      // transparent
+      frosted
+      light
+      sticky
+      rounded="true"
+    >
       <Seo title="About" />
       <Hero
         data={{
           //   topTitle: "Its Easy!",
           title: aboutData.small,
-          image: "about",
+          // image: "about",
         }}
         // full={!svgImgs}
-        bg
+        // bg
+        short
         // svg={svgImgs}
         attach={attach}
         center
-        small
+        // small
         //   rounded="true"
         //   anchor={hero.anchor}
       />
